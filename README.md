@@ -14,8 +14,10 @@ A Tool For Collect Or Analyze Instagram User INFO.
 
 ## Installation Process
 
-Step 1 : Fork This Repository Or Clone It.
+#### Step 1
+Fork This Repository Or Clone It.<br>
          `git clone https://github.com/riz4d/OSINT-IG.git`
          
-Step 2: Then GoTo Config >> Credential.ini
-        Put A UserID & Password Here (It Must Be Fake Account.By Using Primary Account You Will Be At Risk)
+#### Step 2
+Then GoTo `Config >> Credential.ini`<br>
+Put A UserID & Password Here (It Must Be Fake Account.<br>By Using Primary Account You Will Be At Risk)
