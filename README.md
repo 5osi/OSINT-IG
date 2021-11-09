@@ -36,3 +36,7 @@ Then Install Requirements <br>
 
 Run Through<br>
 `python3 main.py Username`
+
+## Credits
+
+![Credits](https://contributors-img.web.app/image?repo=riz4d/OSINT-IG)
