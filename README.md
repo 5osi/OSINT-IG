@@ -33,3 +33,6 @@ Then Install Requirements <br>
 `pip install -r requirements.txt`
 
 #### Step 5
+
+Run Through<br>
+`python3 main.py Username`
