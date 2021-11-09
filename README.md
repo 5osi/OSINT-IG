@@ -1,7 +1,7 @@
 # OSINT-IG
 ## USE
 
-A Tool For Collect Or Analyze Instagram User INFO.
+*A Tool For Fetch Or Analyze Instagram User INFO.*
 
 ![Docker](https://img.shields.io/badge/Docker-Supported-blue)
 ![GPLv3](https://img.shields.io/badge/license-GPLv3-blue)
