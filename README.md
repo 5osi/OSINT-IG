@@ -19,5 +19,10 @@ Fork This Repository Or Clone It.<br>
          `git clone https://github.com/riz4d/OSINT-IG.git`
          
 #### Step 2
-Then GoTo `Config >> Credential.ini`<br>
+Then GoTo <br>`Config >> Credential.ini`<br>
 Put A UserID & Password Here (It Must Be Fake Account.<br>By Using Primary Account You Will Be At Risk)
+
+#### Step 3
+
+Then GoTo The Folder Through CLI<br>
+`cd OSINT_IG`
