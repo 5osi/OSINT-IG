@@ -7,7 +7,15 @@ A Tool For Collect Or Analyze Instagram User INFO.
 ![GPLv3](https://img.shields.io/badge/license-GPLv3-blue)
 ![Python3](https://img.shields.io/badge/language-Python3-red)
 
-## Disclaimer:
+## Disclaimer
 
 **FOR EDUCATIONAL PURPOSE ONLY! This Tool Made Only For Research Purpose Only.**
 **Illegal Use Of This Tool Makes You In Risk.**
+
+## Installation Process
+
+Step 1 : Fork This Repository Or Clone It.
+         `git clone https://github.com/riz4d/OSINT-IG.git`
+         
+Step 2: Then GoTo Config >> Credential.ini
+        Put A UserID & Password Here (It Must Be Fake Account.By Using Primary Account You Will Be At Risk)
