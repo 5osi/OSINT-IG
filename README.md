@@ -26,3 +26,10 @@ Put A UserID & Password Here (It Must Be Fake Account.<br>By Using Primary Accou
 
 Then GoTo The Folder Through CLI<br>
 `cd OSINT_IG`
+
+#### Step 4
+
+Then Install Requirements <br>
+`pip install -r requirements.txt`
+
+#### Step 5
